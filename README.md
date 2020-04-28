@@ -14,7 +14,7 @@ This program was created as a project for a DSP class at Georgia Tech. The task 
   - Step1: _simulated_ room impulse respons generation
   - Step2: applying nLMS filter to estimate RIR
   - Step3: speech and music noise generation 
-    - add a clean vertion to measure the perfomance
+    - added a clean vertion to measure the perfomance
 - Part2: estimation of the delay between speaker and microphone 
   - the sound with different type and level background noise was used
   
